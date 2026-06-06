@@ -4,7 +4,7 @@ function Projects() {
   const projects = [
     {
       title: 'Personal Portfolio Website',
-      status: 'Completed',
+      status: 'In Progress',
       description:
         'Designed and built a responsive personal portfolio website to showcase my background, work experience, technical skills, projects, and contact information using React and custom CSS.',
       video: websiteDemo,
@@ -23,7 +23,7 @@ function Projects() {
     },
     {
       title: 'TrujainTravels Accounting Platform',
-      status: 'Completed',
+      status: 'In Progress',
       description:
         'Developed a full-stack financial platform for travel agencies to automate profit rollups, transaction auditing, and AI-powered transaction categorization.',
       tech: ['Python', 'SQL', 'Flutter', 'AI Categorization'],
@@ -32,7 +32,7 @@ function Projects() {
     },
     {
       title: 'AI-Assisted Market Research Platform',
-      status: 'Completed',
+      status: 'In Progress',
       description:
         'Created a full-stack research tool that transforms user topics into structured research questions and outline-driven reports using LLM workflows.',
       tech: ['React', 'Python', 'FastAPI', 'Pydantic', 'LLMs'],
